@@ -1,0 +1,49 @@
+body{
+    height: 100%;
+}
+.navbar .navbar-brand{
+    color: red;
+    font-weight: bold;
+    font-size: 26px;
+}
+.home-part{
+    background: whitesmoke;
+}
+.home-part .home-image img{
+    margin-top: 50px;
+    width: 300px;
+    margin-left: 100px;
+}
+.home-text h1{
+    color: red;
+    font-weight: bold;
+    text-transform: c;
+}
+
+.heading-part{
+    font-weight: bold;
+    text-align: center;
+    padding: 50px 0;
+}
+.social-icon{
+    display: inline-block;
+}
+.social-icon ul li{
+    display: inline-block;
+    padding: 5px;
+}
+.social-icon ul li i{
+    color:#000;
+}
+.latest-work .work-img span{
+    margin: 5px;
+}
+.col-lg-8{
+    margin-left: 230px;
+}
+
+.footer{
+    border-top: 1px solid #ddd;
+    margin-top: 50px;
+    padding:20px 0;
+}
